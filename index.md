@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Asking the questions"
 ---
 
-I'm glad you are here. I plan to talk about ...
+What is the most important thing in life?
